@@ -1,0 +1,29 @@
+{
+  "name": "food-app",
+  "version": "1.0.0",
+  "description": "This is muppala jeethu",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muppalajeethu/FOOD-APP.git"
+  },
+  "keywords": [
+    "react",
+    "Food",
+    "app",
+    "muppala",
+    "jeethu"
+  ],
+  "author": "muppala jeethu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muppalajeethu/FOOD-APP/issues"
+  },
+  "homepage": "https://github.com/muppalajeethu/FOOD-APP#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
