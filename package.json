@@ -4,19 +4,15 @@
   "description": "This is muppala jeethu",
   "main": "app.js",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/muppalajeethu/FOOD-APP.git"
   },
-  "keywords": [
-    "react",
-    "Food",
-    "app",
-    "muppala",
-    "jeethu"
-  ],
+  "keywords": [],
   "author": "muppala jeethu",
   "license": "ISC",
   "bugs": {
@@ -24,6 +20,11 @@
   },
   "homepage": "https://github.com/muppalajeethu/FOOD-APP#readme",
   "devDependencies": {
-    "parcel": "^2.13.3"
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
   }
 }
